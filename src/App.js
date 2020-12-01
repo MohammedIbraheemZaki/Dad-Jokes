@@ -12,7 +12,6 @@ function App() {
             <div className="col-lg-6 offset-lg-3">
               <Route path='/' exact component={Joke}/>
               <Route path='/about' exact component={About}/>
-              {/* <Joke/> */}
             </div>
           </div>
         </div>
